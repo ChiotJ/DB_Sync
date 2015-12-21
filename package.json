@@ -1,0 +1,14 @@
+{
+  "name": "db_sync",
+  "version": "1.0.0",
+  "description": "sync cmis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jianyingshuo",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.10.0"
+  }
+}
