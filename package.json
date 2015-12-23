@@ -9,6 +9,7 @@
   "author": "jianyingshuo",
   "license": "ISC",
   "dependencies": {
+    "moment": "^2.10.6",
     "mysql": "^2.10.0"
   }
 }
